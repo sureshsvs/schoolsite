@@ -473,3 +473,15 @@
 .footer .f_logo{
     width:155px;
 }
+.modal-body .carousel-control-prev-icon, .modal-body .carousel-control-next-icon {
+    width: 2rem;
+    height: 2rem;
+    border: none;
+}
+.modal-body .carousel-control-next-icon ,.modal-body .carousel-control-prev-icon{
+    width: 25px;
+}
+.bg-color{
+    background-color: #EF176B !important;
+    color: #fff !important;
+}
